@@ -19,20 +19,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/nikitkushwaha448/Stack/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/nikitkushwaha448/Stack/tree/master/0085-maximal-rectangle) |
 | [0224-basic-calculator](https://github.com/nikitkushwaha448/Stack/tree/master/0224-basic-calculator) |
+| [0321-create-maximum-number](https://github.com/nikitkushwaha448/Stack/tree/master/0321-create-maximum-number) |
 ## Array
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nikitkushwaha448/Stack/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/nikitkushwaha448/Stack/tree/master/0085-maximal-rectangle) |
+| [0321-create-maximum-number](https://github.com/nikitkushwaha448/Stack/tree/master/0321-create-maximum-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nikitkushwaha448/Stack/tree/master/0042-trapping-rain-water) |
+| [0321-create-maximum-number](https://github.com/nikitkushwaha448/Stack/tree/master/0321-create-maximum-number) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nikitkushwaha448/Stack/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/nikitkushwaha448/Stack/tree/master/0085-maximal-rectangle) |
+| [0321-create-maximum-number](https://github.com/nikitkushwaha448/Stack/tree/master/0321-create-maximum-number) |
 ## Matrix
 |  |
 | ------- |
@@ -45,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/nikitkushwaha448/Stack/tree/master/0224-basic-calculator) |
+## Greedy
+|  |
+| ------- |
+| [0321-create-maximum-number](https://github.com/nikitkushwaha448/Stack/tree/master/0321-create-maximum-number) |
 <!---LeetCode Topics End-->
